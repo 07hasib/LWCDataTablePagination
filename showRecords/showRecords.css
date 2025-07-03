@@ -1,0 +1,32 @@
+.rating-hot {
+    background-color: #ff4444;
+    color: white;
+    font-weight: bold;
+    padding: 4px 8px;
+    border-radius: 4px;
+    text-align: center;
+    display: inline-block;
+    min-width: 50px;
+}
+
+.rating-warm {
+    background-color: #ff8800;
+    color: white;
+    font-weight: bold;
+    padding: 4px 8px;
+    border-radius: 4px;
+    text-align: center;
+    display: inline-block;
+    min-width: 50px;
+}
+
+.rating-cold {
+    background-color: #0066cc;
+    color: white;
+    font-weight: bold;
+    padding: 4px 8px;
+    border-radius: 4px;
+    text-align: center;
+    display: inline-block;
+    min-width: 50px;
+}
